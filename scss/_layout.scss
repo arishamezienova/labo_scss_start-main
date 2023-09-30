@@ -15,8 +15,9 @@
     }
 
     .header-banner{
-        @include positie(50%);
         text-align: center;
+        @include positie(50%);
+        
     }
 }
 
