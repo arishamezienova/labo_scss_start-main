@@ -13,7 +13,7 @@
 }
 
 .main-name{
-    font-style: $font-nunito;
+    font-family: $font-nunito;
     font-size: 50px;
     color: $color-secondary;
 
@@ -21,7 +21,7 @@
 }
 
 .sub-name{
-    font-style: $font-josefinSans;
+    font-family: $font-josefinSans;
     font-size: 18px;
     color: $color-secondary;
 
@@ -29,7 +29,7 @@
 }
 
 .main-heading{
-    font-style: $font-dancingScript;
+    font-family: $font-dancingScript;
     font-size: 100px;
     font-weight: 300;
     color: $color-primary;
@@ -37,7 +37,7 @@
 }
 
 .sub-heading{
-    font-style: $font-josefinSans;
+    font-family: $font-josefinSans;
     font-size: 60px;
     font-weight: 300;
     color: $color-secondary;
@@ -47,7 +47,7 @@
 .main-button{
     width: 170px;
     height: 45px;
-    font-style: $font-josefinSans;
+    font-family: $font-josefinSans;
     font-size: 14px;
     text-transform: uppercase;
     letter-spacing: 1px;
